@@ -1,0 +1,8 @@
+{
+    "ind_num": 30,
+    "iter_num": 2000,
+    "crossover_ratio": 0.9,
+    "mutation_ratio": 0.01,
+    "select_strategy":"roulette",
+    "roulette_type":"softmax"
+}
